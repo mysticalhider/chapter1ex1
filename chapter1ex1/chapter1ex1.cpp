@@ -15,5 +15,6 @@ int main()
 {
     cout << "Hello World!\n";
     cout << "Hello World! *2 :) \n";
+    cout << "yay! \n";
     return 0;
 }
