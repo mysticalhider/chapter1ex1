@@ -14,6 +14,8 @@ using namespace std;
 int main()
 {
     cout << "Hello World!\n";
-    cout << "What is up bro?\n";
+    cout << "Hello World! *2 :) \n";
+    cout << "Hello World!\n";
+    cout << "attempting to commit this\n";
     return 0;
 }
